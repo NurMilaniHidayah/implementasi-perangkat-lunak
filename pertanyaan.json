@@ -1,0 +1,184 @@
+{
+    "results": [
+        {
+            "question": "Apa ibu kota Indonesia?",
+            "correct_answer": "Jakarta",
+            "incorrect_answers": [
+                "Bandung",
+                "Surabaya",
+                "Medan"
+            ]
+        },
+        {
+            "question": "Siapa presiden pertama Indonesia?",
+            "correct_answer": "Soekarno",
+            "incorrect_answers": [
+                "Suharto",
+                "BJ Habibie",
+                "Megawati Soekarnoputri"
+            ]
+        },
+        {
+            "question": "Pulau terbesar di Indonesia adalah?",
+            "correct_answer": "Kalimantan",
+            "incorrect_answers": [
+                "Sumatra",
+                "Jawa",
+                "Sulawesi"
+            ]
+        },
+        {
+            "question": "Gunung tertinggi di Indonesia adalah?",
+            "correct_answer": "Puncak Jaya",
+            "incorrect_answers": [
+                "Gunung Semeru",
+                "Gunung Rinjani",
+                "Gunung Kerinci"
+            ]
+        },
+        {
+            "question": "Berapa jumlah provinsi di Indonesia pada tahun 2024?",
+            "correct_answer": "38",
+            "incorrect_answers": [
+                "34",
+                "37",
+                "39"
+            ]
+        },
+        {
+            "question": "Apa nama candi Buddha terbesar di Indonesia?",
+            "correct_answer": "Borobudur",
+            "incorrect_answers": [
+                "Prambanan",
+                "Mendut",
+                "Sewu"
+            ]
+        },
+        {
+            "question": "Siapa penulis novel 'Laskar Pelangi'?",
+            "correct_answer": "Andrea Hirata",
+            "incorrect_answers": [
+                "Pramoedya Ananta Toer",
+                "Dewi Lestari",
+                "Ahmad Tohari"
+            ]
+        },
+        {
+            "question": "Kapan Indonesia merdeka?",
+            "correct_answer": "17 Agustus 1945",
+            "incorrect_answers": [
+                "17 Agustus 1946",
+                "17 Agustus 1947",
+                "17 Agustus 1948"
+            ]
+        },
+        {
+            "question": "Apa nama tarian tradisional dari Bali?",
+            "correct_answer": "Tari Kecak",
+            "incorrect_answers": [
+                "Tari Pendet",
+                "Tari Saman",
+                "Tari Jaipong"
+            ]
+        },
+        {
+            "question": "Apa julukan Indonesia?",
+            "correct_answer": "Nusantara",
+            "incorrect_answers": [
+                "Bhinneka Tunggal Ika",
+                "Garuda",
+                "Merah Putih"
+            ]
+        },
+        {
+            "question": "Danau terbesar di Indonesia adalah?",
+            "correct_answer": "Danau Toba",
+            "incorrect_answers": [
+                "Danau Sentani",
+                "Danau Maninjau",
+                "Danau Singkarak"
+            ]
+        },
+        {
+            "question": "Apa nama makanan khas dari Padang yang terkenal?",
+            "correct_answer": "Rendang",
+            "incorrect_answers": [
+                "Sate",
+                "Gado-gado",
+                "Nasi Goreng"
+            ]
+        },
+        {
+            "question": "Siapa yang dikenal sebagai 'Bapak Pendidikan Nasional' di Indonesia?",
+            "correct_answer": "Ki Hajar Dewantara",
+            "incorrect_answers": [
+                "RA Kartini",
+                "Soekarno",
+                "Mohammad Hatta"
+            ]
+        },
+        {
+            "question": "Apa bahasa resmi di Indonesia?",
+            "correct_answer": "Bahasa Indonesia",
+            "incorrect_answers": [
+                "Bahasa Jawa",
+                "Bahasa Sunda",
+                "Bahasa Melayu"
+            ]
+        },
+        {
+            "question": "Apa nama mata uang Indonesia?",
+            "correct_answer": "Rupiah",
+            "incorrect_answers": [
+                "Ringgit",
+                "Dolar",
+                "Baht"
+            ]
+        },
+        {
+            "question": "Apa simbol negara Indonesia?",
+            "correct_answer": "Garuda Pancasila",
+            "incorrect_answers": [
+                "Burung Garuda",
+                "Pancasila",
+                "Bendera Merah Putih"
+            ]
+        },
+        {
+            "question": "Siapa wakil presiden Indonesia yang pertama?",
+            "correct_answer": "Mohammad Hatta",
+            "incorrect_answers": [
+                "Soeharto",
+                "Abdurrahman Wahid",
+                "B.J. Habibie"
+            ]
+        },
+        {
+            "question": "Apa nama bandara internasional di Jakarta?",
+            "correct_answer": "Bandara Soekarno-Hatta",
+            "incorrect_answers": [
+                "Bandara Halim Perdanakusuma",
+                "Bandara Juanda",
+                "Bandara Ngurah Rai"
+            ]
+        },
+        {
+            "question": "Apa agama mayoritas di Indonesia?",
+            "correct_answer": "Islam",
+            "incorrect_answers": [
+                "Kristen",
+                "Hindu",
+                "Buddha"
+            ]
+        },
+        {
+            "question": "Apa nama hutan hujan terbesar di Indonesia?",
+            "correct_answer": "Hutan Kalimantan",
+            "incorrect_answers": [
+                "Hutan Sumatra",
+                "Hutan Papua",
+                "Hutan Jawa"
+            ]
+        }
+    ]
+}
